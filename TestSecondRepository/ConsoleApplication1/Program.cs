@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             var xx = 87;
+
+            xx = 2;
         }
     }
 }
