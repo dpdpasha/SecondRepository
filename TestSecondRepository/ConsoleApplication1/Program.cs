@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             var xx = 87;
 
             xx = 2;
+
+            // Commit 3
         }
     }
 }
