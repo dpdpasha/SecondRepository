@@ -19,6 +19,8 @@ namespace ConsoleApplication1
             // commit 5 - 31.01.18 на работе
 
             // commit 6 - 02.02.18 на работе
+
+            // commit 7 - 27.03.18 на работе
         }
     }
 }
