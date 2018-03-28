@@ -20,7 +20,9 @@ namespace ConsoleApplication1
 
             // commit 6 - 02.02.18 на работе
 
-            // commit 7 - 27.03.18 на работе
+            // commit 7 - 28.03.18 на работе
+
+            // commit 7.1 - 28.03.18 на работе - продолжение ветки master
         }
     }
 }
